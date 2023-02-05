@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Prosto One', cursive;
+    text-align: center
+}
+
+h1 {
+    /* background-color: blueviolet; */
+    text-align: center;
+    width: 100%;
+}
+
+.scoreContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+    width: 500px;
+    /* background-color: aqua; */
+    padding: 10px;
+}
